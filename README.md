@@ -1,9 +1,19 @@
+app/src/main/ic_launcher-playstore.png  
+<img src="https://github.com/azuredragon3000/googleconsole_tracnghiemtienganh/blob/master/app/src/main/ic_launcher-playstore.png" />   
+app/src/main/res/drawable-v24  
+<img src="https://github.com/azuredragon3000/googleconsole_tracnghiemtienganh/blob/master/app/src/main/res/drawable-v24" />   
 app/src/main/res/drawable-v24/ic_launcher_foreground.xml  
 <img src="https://github.com/azuredragon3000/googleconsole_tracnghiemtienganh/blob/master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" />   
+app/src/main/res/drawable  
+<img src="https://github.com/azuredragon3000/googleconsole_tracnghiemtienganh/blob/master/app/src/main/res/drawable" />   
 app/src/main/res/drawable/background1.jpg  
 <img src="https://github.com/azuredragon3000/googleconsole_tracnghiemtienganh/blob/master/app/src/main/res/drawable/background1.jpg" />   
+app/src/main/res/drawable/boder.xml  
+<img src="https://github.com/azuredragon3000/googleconsole_tracnghiemtienganh/blob/master/app/src/main/res/drawable/boder.xml" />   
 app/src/main/res/drawable/button_style.xml  
 <img src="https://github.com/azuredragon3000/googleconsole_tracnghiemtienganh/blob/master/app/src/main/res/drawable/button_style.xml" />   
+app/src/main/res/drawable/et_cust.xml  
+<img src="https://github.com/azuredragon3000/googleconsole_tracnghiemtienganh/blob/master/app/src/main/res/drawable/et_cust.xml" />   
 app/src/main/res/drawable/ic_dashboard_black_24dp.xml  
 <img src="https://github.com/azuredragon3000/googleconsole_tracnghiemtienganh/blob/master/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" />   
 app/src/main/res/drawable/ic_home_black_24dp.xml  
